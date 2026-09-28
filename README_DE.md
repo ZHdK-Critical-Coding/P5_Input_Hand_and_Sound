@@ -25,15 +25,17 @@ Akkord – ein Ausgangspunkt für gestengesteuerte Instrumente.
 Voraussetzungen: eine Webcam, Lautsprecher oder Kopfhörer und ein aktueller
 Browser (Chrome oder Edge empfohlen).
 
+Bibliotheken (über ein CDN in `index.html` geladen): p5.js 1.11.0,
+ml5.js 1.x, Tone.js 14.8.49.
+
+## Ausführen
+
 1. Den Ordner in Visual Studio Code öffnen und Live Server starten (in der
    Statusleiste auf **Go Live** klicken).
 2. Im Browser den Zugriff auf die Kamera erlauben.
 3. In die Zeichenfläche klicken, um den Ton einzuschalten (Browser
    blockieren Audio bis zu einer Benutzeraktion).
 4. Mit **f** den Vollbildmodus ein- und ausschalten.
-
-Bibliotheken (über ein CDN in `index.html` geladen): p5.js 1.11.0,
-ml5.js 1.x, Tone.js 14.8.49.
 
 ## Coding-Hilfe
 
